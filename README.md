@@ -18,4 +18,7 @@ The goal is to show how visual elements can guide user attention and improve int
 - Intersection Observer API for reveal animations  
 - CSS Custom Properties for easy theming and style management  
 
+## Landing page  
+ - http://3principles.gt.tc/
+
 
