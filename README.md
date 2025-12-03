@@ -19,6 +19,8 @@ The goal is to show how visual elements can guide user attention and improve int
 - CSS Custom Properties for easy theming and style management  
 
 ## Landing page  
+ - Project located on https://www.infinityfree.com/ hosting 
  - http://3principles.gt.tc/
+
 
 
